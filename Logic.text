@@ -1,0 +1,22 @@
+we have a array of object of length x
+we need to find .name at each object
+
+we run a loop to traverse through the array of object.name to find the match
+
+for loop runs at each array element to find the object.name 
+if object.name === to the name we need
+then perform something
+else go back and check again
+out the loop,
+if object.name is not found then display alert
+
+//useEffect
+On page load items state is []
+check for item-in-basket 
+    if !null 
+    set items state with item-in-basket to //set state from localStorage element
+    if null
+    set item-in-basket with items state (i.e. []) //create localStorage element
+//UseEffect
+If item change set item-in-basket with items state 
+
