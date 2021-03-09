@@ -15,3 +15,9 @@ Then search for the item as shown in the list below:
 * Shoes Black
 
 So far these are the only products available, and make sure the items are typed as is, as of now the app is **NOT CASE SENSITIVE**
+
+Click on the **Add Products** Button and changes quantityies
+
+**Delelet items** from the basket
+
+or Empty the Entire basket using the **Empty Basket** button
